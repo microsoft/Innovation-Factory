@@ -21,24 +21,10 @@ The Innovation Factory follows a structured 10-day process:
 
 The Innovation Factory has delivered innovative solutions across various Microsoft technologies. Below is a list of projects that demonstrate the program's capabilities.
 
-<table>
-<thead>
-<tr>
-<th style="width:300px;">Project</th>
-<th>Details</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://github.com/microsoft/IF-APIM-to-Copilot-Studio" target="_blank">APIM to Copilot Studio Integration</a></td>
-<td>Enterprise-grade integration patterns for connecting Copilot Studio chatbots through Azure API Management, featuring five complete demo applications (Angular, React, ASP.NET MVC, WPF, Console) with Azure Entra ID authentication, secure token management, and production-ready architectures that enhance security while enabling seamless conversational AI experiences across web, desktop, and terminal platforms.</td>
-</tr>
-<tr>
-<td>MCP Server for Microsoft Teams<br /><small style="font-style:italic;">(Under Development)</small></td>
-<td>Demonstration of building intelligent Teams bots using the Model Context Protocol (MCP) to provide specialized capabilities through custom Azure Functions, showcasing reusable service architectures with Microsoft Dataverse caching, Azure OpenAI integration, and natural language processing that can be consumed by multiple clients including Teams, Copilot Studio, and desktop applications.</td>
-</tr>
-</tbody>
-</table>
+| Project | Details |
+| - | - |
+| [APIM to Copilot Studio Integration](https://github.com/microsoft/IF-APIM-to-Copilot-Studio) |Enterprise-grade integration patterns for connecting Copilot Studio chatbots through Azure API Management, featuring five complete demo applications (Angular, React, ASP.NET MVC, WPF, Console) with Azure Entra ID authentication, secure token management, and production-ready architectures that enhance security while enabling seamless conversational AI experiences across web, desktop, and terminal platforms.|
+| MCP Server for Microsoft Teams _(Under Development)_ | Demonstration of building intelligent Teams bots using the Model Context Protocol (MCP) to provide specialized capabilities through custom Azure Functions, showcasing reusable service architectures with Microsoft Dataverse caching, Azure OpenAI integration, and natural language processing that can be consumed by multiple clients including Teams, Copilot Studio, and desktop applications. |
 
 ## Business Impact
 
